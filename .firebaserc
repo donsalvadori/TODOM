@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "firebase-todo-react-redux"
+    "default": "TODOM",
+    "prod": "todom-b01a6"
   }
 }

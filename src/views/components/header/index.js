@@ -10,7 +10,7 @@ const Header = ({authenticated, signOut}) => {
 
           <ul className="header__actions">
             {authenticated ? <li><button className="btn" onClick={signOut}>Sign out</button></li> : null}
-            <li><a className="link link--github" href="https://github.com/r-park/todo-react-redux"></a></li>
+            <li><a className="link link--github" href="https://github.com/donsalvadori"></a></li>
           </ul>
         </div>
       </div>
