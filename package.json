@@ -2,14 +2,9 @@
   "name": "todo-react-redux",
   "version": "0.6.0",
   "description": "Todo app with React, Redux, and Firebase",
-  "homepage": "https://github.com/r-park/todo-react-redux",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/r-park/todo-react-redux.git"
-  },
   "author": {
-    "name": "Richard Park",
-    "email": "objectiv@gmail.com"
+    "name": "Chris Salvi",
+    "email": "csalvi42@gmail.com"
   },
   "license": "MIT",
   "private": true,
